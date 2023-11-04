@@ -32,7 +32,8 @@ Math / algorithm problems
 
 17. You know the rules and the game. Combine 4, 4, 4, 5 to make 27. Simple arithmetic only - https://twitter.com/pragprog/status/1631746267843039234
 18. Word problem: Solve 2 Variables Given Their Sum And Difference - https://www.stlplace.com/2023/10/18/math-word-problem-solve-2-variables-given-their-sum-and-difference/
-    
+19. Simple problem for the Starbucks number of stores: https://twitter.com/stlplace/status/1720243658539086037 || The company said it plans to expand to 35,000 locations outside of North America by 2030. Starbucks currently has roughly 20,200 international cafes, as of Oct. 1. In total, the coffee giant aims to reach 55,000 locations globally by 2030, up from its current count of more than 38,000. The question is the current US and international stores and their future growth: US 18,000, international 20,000, year 2030 - US 20,000, International 35,000  
+20.      
 Answers  
 ======  
 1. AB / (AB/1 + AB/2) = 1 / (1 + 1/2) = 2/3 hours
